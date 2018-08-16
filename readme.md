@@ -227,7 +227,7 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 
 |出处|语料大小|年代|
 |--|--|--|
-|github.com/crownpku|未知|未知|
+|github.com/crownpku|小|未知|
 
 
 ### Embedding 词嵌入
