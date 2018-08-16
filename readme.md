@@ -223,6 +223,12 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |--|--|--|
 |erhengzhong|未知|2010-2012|
 
+- [中文阅读理解数据](https://github.com/crownpku/Small-Chinese-Corpus/tree/master/reading_comprehension_chi)
+
+|出处|语料大小|年代|
+|--|--|--|
+|github.com/crownpku|未知|未知|
+
 
 ### Embedding 词嵌入
 
