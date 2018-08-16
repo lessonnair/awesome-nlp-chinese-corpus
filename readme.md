@@ -12,6 +12,8 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 
 - https://github.com/fateleak/dgk_lost_conv
 
+
+
 ### 综合内容
 
 - [ldc.upenn.edu](https://catalog.ldc.upenn.edu/search)
