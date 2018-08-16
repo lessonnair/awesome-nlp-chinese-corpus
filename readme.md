@@ -230,6 +230,7 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |github.com/crownpku|小|未知|
 
 
+
 ### Embedding 词嵌入
 
 - [Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors)
