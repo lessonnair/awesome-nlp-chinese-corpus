@@ -13,6 +13,37 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 - https://github.com/fateleak/dgk_lost_conv
 
 
+****************************************************
+
+### Embedding 词嵌入
+
+- [Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors)
+
+|模型|语料大小|嵌入大小|
+|--|--|--|
+|word2vec/fasttext|各种|各种|
+
+- [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors)
+
+|模型|语料大小|嵌入大小|
+|--|--|--|
+|word2vec|50101|300|
+
+- [fastText](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
+
+|语料大小|嵌入大小|
+|--|--|
+|简中332647|300|
+
+- [BPEmb](https://github.com/bheinzerling/bpemb)
+
+|op|语料大小|嵌入大小|
+|--|--|--|
+|各种|各种|各种|
+|10000|9630|300|
+|200000|146365|300|
+
+******************************************************
 
 ### 综合内容
 
@@ -234,33 +265,3 @@ A curated list of resources of chinese corpora for NLP(Natural Language Processi
 |出处|语料大小|年代|
 |--|--|--|
 |github.com/DouYishun|2.99M|未知|
-
-
-
-### Embedding 词嵌入
-
-- [Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors)
-
-|模型|语料大小|嵌入大小|
-|--|--|--|
-|word2vec/fasttext|各种|各种|
-
-- [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors)
-
-|模型|语料大小|嵌入大小|
-|--|--|--|
-|word2vec|50101|300|
-
-- [fastText](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
-
-|语料大小|嵌入大小|
-|--|--|
-|简中332647|300|
-
-- [BPEmb](https://github.com/bheinzerling/bpemb)
-
-|op|语料大小|嵌入大小|
-|--|--|--|
-|各种|各种|各种|
-|10000|9630|300|
-|200000|146365|300|
